@@ -7,5 +7,7 @@
   <name>Proyecto 1 Artefacto 1</name>
   <modules>
   	<module>pruebas</module>
+  	<module>gestion-inscripciones</module>
+  	<module>gestionIns</module>
   </modules>
 </project>
